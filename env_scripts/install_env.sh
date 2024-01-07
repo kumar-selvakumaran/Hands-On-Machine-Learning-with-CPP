@@ -17,7 +17,7 @@ mkdir libs/sources
 . ./install_lib.sh https://github.com/davisking/dlib 929c630b381d444bbf5d7aa622e3decc7785ddb2
 
 # Armadillo
-. ./install_lib.sh https://gitlab.com/conradsnicta/armadillo-code 48b45db6ca1d2839e42332dcdf04f55dcec83e20
+. ./install_lib.sh https://gitlab.com/conradsnicta/armadillo-code 442d52ba052115b32035a6e7dc6587bb6a462dec
 
 # xtl
 . ./install_lib.sh https://github.com/xtensor-stack/xtl 03a6827c9e402736506f3ded754e890b3ea28a98
